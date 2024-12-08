@@ -1,0 +1,10 @@
+C:\window-project\Brush\Brush\bin\Debug\Brush.exe.config
+C:\window-project\Brush\Brush\bin\Debug\Brush.exe
+C:\window-project\Brush\Brush\bin\Debug\Brush.pdb
+C:\window-project\Brush\Brush\obj\Debug\Brush.csproj.AssemblyReference.cache
+C:\window-project\Brush\Brush\obj\Debug\Brush.Form1.resources
+C:\window-project\Brush\Brush\obj\Debug\Brush.Properties.Resources.resources
+C:\window-project\Brush\Brush\obj\Debug\Brush.csproj.GenerateResource.cache
+C:\window-project\Brush\Brush\obj\Debug\Brush.csproj.CoreCompileInputs.cache
+C:\window-project\Brush\Brush\obj\Debug\Brush.exe
+C:\window-project\Brush\Brush\obj\Debug\Brush.pdb
