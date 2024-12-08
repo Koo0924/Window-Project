@@ -22,7 +22,7 @@ namespace Brush
         {
             Graphics g = e.Graphics;
 
-            SolidBrush b = new SolidBrush(Color.Red);
+            SolidBrush b = new SolidBrush(Color.Yellow);
             g.FillRectangle(b, ClientRectangle);
         }
     }
