@@ -52,10 +52,10 @@
             // 
             // MP3TrackBar
             // 
-            this.MP3TrackBar.Location = new System.Drawing.Point(14, 28);
+            this.MP3TrackBar.Location = new System.Drawing.Point(40, 27);
             this.MP3TrackBar.Maximum = 999999;
             this.MP3TrackBar.Name = "MP3TrackBar";
-            this.MP3TrackBar.Size = new System.Drawing.Size(318, 56);
+            this.MP3TrackBar.Size = new System.Drawing.Size(280, 56);
             this.MP3TrackBar.TabIndex = 1;
             this.MP3TrackBar.MouseDown += new System.Windows.Forms.MouseEventHandler(this.MP3TrackBar_MouseDown);
             this.MP3TrackBar.MouseMove += new System.Windows.Forms.MouseEventHandler(this.MP3TrackBar_MouseMove);
