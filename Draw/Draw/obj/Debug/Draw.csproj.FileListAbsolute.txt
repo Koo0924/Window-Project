@@ -1,0 +1,10 @@
+C:\window-project\Draw\Draw\bin\Debug\Draw.exe.config
+C:\window-project\Draw\Draw\bin\Debug\Draw.exe
+C:\window-project\Draw\Draw\bin\Debug\Draw.pdb
+C:\window-project\Draw\Draw\obj\Debug\Draw.csproj.AssemblyReference.cache
+C:\window-project\Draw\Draw\obj\Debug\Draw.Form1.resources
+C:\window-project\Draw\Draw\obj\Debug\Draw.Properties.Resources.resources
+C:\window-project\Draw\Draw\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\window-project\Draw\Draw\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\window-project\Draw\Draw\obj\Debug\Draw.exe
+C:\window-project\Draw\Draw\obj\Debug\Draw.pdb
