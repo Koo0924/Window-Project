@@ -15,7 +15,7 @@ namespace MP3_Player
         MP3Player mp3Player;
 
         bool isScrolled = false;
-        int trackBarBlankSize = 14;
+        int trackBarBlankSize = 16;
         int trackBarLength = 0;
         int trackBarMouseX = 0;
         public Form1()

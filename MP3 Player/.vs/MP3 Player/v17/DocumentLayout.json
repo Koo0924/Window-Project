@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\window-project\\MP3 Player\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9DC54D69-68B8-4969-B1AC-F581314F051D}|MP3 Player.csproj|c:\\window-project\\mp3 player\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC54D69-68B8-4969-B1AC-F581314F051D}|MP3 Player.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9DC54D69-68B8-4969-B1AC-F581314F051D}|MP3 Player.csproj|c:\\window-project\\mp3 player\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9DC54D69-68B8-4969-B1AC-F581314F051D}|MP3 Player.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\window-project\\MP3 Player\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\window-project\\MP3 Player\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T06:08:41.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [\uB514\uC790\uC778]",
               "DocumentMoniker": "C:\\window-project\\MP3 Player\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
