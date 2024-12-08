@@ -1,0 +1,10 @@
+C:\Users\kshh0\OneDrive\바탕 화면\윈도우프로그래밍\20201259_구상호\WEEK04_02\bin\Debug\WEEK04_02.exe.config
+C:\Users\kshh0\OneDrive\바탕 화면\윈도우프로그래밍\20201259_구상호\WEEK04_02\bin\Debug\WEEK04_02.exe
+C:\Users\kshh0\OneDrive\바탕 화면\윈도우프로그래밍\20201259_구상호\WEEK04_02\bin\Debug\WEEK04_02.pdb
+C:\Users\kshh0\OneDrive\바탕 화면\윈도우프로그래밍\20201259_구상호\WEEK04_02\obj\Debug\WEEK04_02.csproj.AssemblyReference.cache
+C:\Users\kshh0\OneDrive\바탕 화면\윈도우프로그래밍\20201259_구상호\WEEK04_02\obj\Debug\WEEK04_02.Form1.resources
+C:\Users\kshh0\OneDrive\바탕 화면\윈도우프로그래밍\20201259_구상호\WEEK04_02\obj\Debug\WEEK04_02.Properties.Resources.resources
+C:\Users\kshh0\OneDrive\바탕 화면\윈도우프로그래밍\20201259_구상호\WEEK04_02\obj\Debug\WEEK04_02.csproj.GenerateResource.cache
+C:\Users\kshh0\OneDrive\바탕 화면\윈도우프로그래밍\20201259_구상호\WEEK04_02\obj\Debug\WEEK04_02.csproj.CoreCompileInputs.cache
+C:\Users\kshh0\OneDrive\바탕 화면\윈도우프로그래밍\20201259_구상호\WEEK04_02\obj\Debug\WEEK04_02.exe
+C:\Users\kshh0\OneDrive\바탕 화면\윈도우프로그래밍\20201259_구상호\WEEK04_02\obj\Debug\WEEK04_02.pdb
