@@ -21,9 +21,8 @@ namespace Draw
         {
             Graphics g = e.Graphics;
 
-            Rectangle r = new Rectangle(50, 50, 150, 100);
-            g.FillEllipse(Brushes.Cyan,r);
-            g.DrawEllipse(Pens.Black,r);
+            g.DrawBezier(Pens.Magenta,
+                new Point(100,50), new Point(0,100), new Point(200,100), new Point(100,150));
             
 
 
