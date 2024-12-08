@@ -107,7 +107,7 @@
             this.bt_Pause.Name = "bt_Pause";
             this.bt_Pause.Size = new System.Drawing.Size(75, 52);
             this.bt_Pause.TabIndex = 6;
-            this.bt_Pause.Text = "일시정지\r\n\r\n";
+            this.bt_Pause.Text = "일시정지\r\n∥\r\n\r\n\r\n";
             this.bt_Pause.UseVisualStyleBackColor = true;
             this.bt_Pause.Click += new System.EventHandler(this.bt_Pause_Click);
             // 
