@@ -1,0 +1,10 @@
+C:\Users\kshh0\OneDrive\바탕 화면\윈도우프로그래밍\20201259_구상호\MP3 Player\bin\Debug\MP3 Player.exe.config
+C:\Users\kshh0\OneDrive\바탕 화면\윈도우프로그래밍\20201259_구상호\MP3 Player\bin\Debug\MP3 Player.exe
+C:\Users\kshh0\OneDrive\바탕 화면\윈도우프로그래밍\20201259_구상호\MP3 Player\bin\Debug\MP3 Player.pdb
+C:\Users\kshh0\OneDrive\바탕 화면\윈도우프로그래밍\20201259_구상호\MP3 Player\obj\Debug\MP3 Player.csproj.AssemblyReference.cache
+C:\Users\kshh0\OneDrive\바탕 화면\윈도우프로그래밍\20201259_구상호\MP3 Player\obj\Debug\MP3_Player.Form1.resources
+C:\Users\kshh0\OneDrive\바탕 화면\윈도우프로그래밍\20201259_구상호\MP3 Player\obj\Debug\MP3_Player.Properties.Resources.resources
+C:\Users\kshh0\OneDrive\바탕 화면\윈도우프로그래밍\20201259_구상호\MP3 Player\obj\Debug\MP3 Player.csproj.GenerateResource.cache
+C:\Users\kshh0\OneDrive\바탕 화면\윈도우프로그래밍\20201259_구상호\MP3 Player\obj\Debug\MP3 Player.csproj.CoreCompileInputs.cache
+C:\Users\kshh0\OneDrive\바탕 화면\윈도우프로그래밍\20201259_구상호\MP3 Player\obj\Debug\MP3 Player.exe
+C:\Users\kshh0\OneDrive\바탕 화면\윈도우프로그래밍\20201259_구상호\MP3 Player\obj\Debug\MP3 Player.pdb
